@@ -1,0 +1,24 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales de editores
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Archivos de VSCode
+.vscode/
+
+# Node.js (si llegas a usarlo)
+node_modules/
+package-lock.json
+
+# Archivos ZIP u otros empaquetados
+*.zip
+*.rar
+
+# Archivos ocultos generados por el sistema
+*.~*
